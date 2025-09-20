@@ -1,4 +1,4 @@
-# Unconstrained OptimizationW
+# Unconstrained Optimization
 
 This repository contains a single Jupyter Notebook for **unconstrained optimization**. It implements multiple first/second-order methods with a **backtracking Armijo line search**, and reports numerical results on standard test problems.
 
